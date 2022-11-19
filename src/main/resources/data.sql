@@ -1,0 +1,1 @@
+INSERT INTO EMPLOYEE_TABLE (first_name,last_name,email) VALUES ('TON','MURPHY','@GMAIL.COM'),('TONY','MURP','@GMAIL.COM');
